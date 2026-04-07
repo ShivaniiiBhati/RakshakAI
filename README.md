@@ -310,6 +310,4 @@ Built with amazing open-source tools:
 ---
 
 **Happy coding! 🎉**
-#   R a k s h a k A I 
- 
- 
+#
